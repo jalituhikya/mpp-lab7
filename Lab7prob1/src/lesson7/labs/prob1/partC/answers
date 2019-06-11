@@ -1,0 +1,2 @@
+The Employee class does not override the hashcode method and therefore the HashMap doesnt
+behave as expected

@@ -1,0 +1,2 @@
+the equals method does not override the equals method in the Object class because it has a different signature,
+so the equals method that is called is the one in the Object super class

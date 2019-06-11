@@ -1,0 +1,2 @@
+the Employee class is the key for Hashmap and it is mutable so when setVisited is called the hashcode returned is changed
+and the same object will not be returned
